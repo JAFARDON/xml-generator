@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-XmlGeneratorApplication<xml-generator>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.mjtech.xml_generator.XmlGeneratorApplication",
+            "projectName": "xml-generator",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

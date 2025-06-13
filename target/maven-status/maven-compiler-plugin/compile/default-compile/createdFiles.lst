@@ -1,0 +1,5 @@
+com\mjtech\xml_generator\model\PalletRequest.class
+com\mjtech\xml_generator\controller\PalletController.class
+com\mjtech\xml_generator\model\WrapperRequest.class
+com\mjtech\xml_generator\XmlGeneratorApplication.class
+com\mjtech\xml_generator\model\PalletData.class
